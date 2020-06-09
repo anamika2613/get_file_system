@@ -11,5 +11,5 @@ In irb or in rails console just require it
 
   require 'get_file_system'
   
-  FileSystem.get_file_system('/path_of_your_directory')
+  GetFileSystem::FileSystem.get_file_system('/path_of_your_directory')
   
