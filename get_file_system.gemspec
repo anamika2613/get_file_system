@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{get_file_system}
-  s.version     = '0.1.0'
+  s.version     = '0.2.0'
   s.licenses    = ['MIT']
   s.date = %q{2020-06-09}
   s.summary = %q{get_file_system is the system for getting the directories and files of any root folder}
