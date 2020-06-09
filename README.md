@@ -10,5 +10,6 @@ Include the gem in your Gemfile of Rails App or just do
 In irb or in rails console just require it 
 
   require 'get_file_system'
+  
   FileSystem.get_file_system('/path_of_your_directory')
   
